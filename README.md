@@ -10,7 +10,7 @@ Install ReactJS using node-package-manager (npm)
     npm  install -g create-react-app
 
 
-## Buil this project
+## Build this project
 
 Clone this repository using follwing command
 
